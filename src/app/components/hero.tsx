@@ -34,7 +34,7 @@ export function Hero() {
         Welcome to the Web3 Donation Platform!
       </h1>
 
-      <p className="text-lg md:text-xl text-gray-600 mb-8 ">
+      <p className="text-lg md:text-xl text-gray-600 mb-8 text-center">
         Experience a new era of giving with security, transparency, and
         decentralization. 
       </p>
